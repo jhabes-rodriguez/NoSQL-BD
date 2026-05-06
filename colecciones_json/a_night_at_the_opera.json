@@ -1,0 +1,21 @@
+[{
+  "_id": "q_anato_01",
+  "titulo": "Bohemian Rhapsody",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
+},
+{
+  "_id": "q_anato_02",
+  "titulo": "You're My Best Friend",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
+},
+{
+  "_id": "q_anato_03",
+  "titulo": "Love of My Life",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
+}]

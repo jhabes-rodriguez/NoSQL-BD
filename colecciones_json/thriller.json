@@ -1,0 +1,21 @@
+[{
+  "_id": "mj_th_01",
+  "titulo": "Billie Jean",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg"
+},
+{
+  "_id": "mj_th_02",
+  "titulo": "Beat It",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg"
+},
+{
+  "_id": "mj_th_03",
+  "titulo": "Thriller",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg"
+}]
