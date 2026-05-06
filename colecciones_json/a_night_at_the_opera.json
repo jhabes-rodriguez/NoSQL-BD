@@ -18,4 +18,18 @@
   "anio_salida": 1975,
   "autor": "Queen",
   "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
+},
+{
+  "_id": "q_anato_04",
+  "titulo": "Death on Two Legs",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
+},
+{
+  "_id": "q_anato_05",
+  "titulo": "Lazing on a Sunday Afternoon",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg"
 }]

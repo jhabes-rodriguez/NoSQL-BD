@@ -18,4 +18,18 @@
   "anio_salida": 2009,
   "autor": "Lady Gaga",
   "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
+},
+{
+  "_id": "lg_tfm_04",
+  "titulo": "Monster",
+  "anio_salida": 2009,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
+},
+{
+  "_id": "lg_tfm_05",
+  "titulo": "So Happy I Could Die",
+  "anio_salida": 2009,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
 }]

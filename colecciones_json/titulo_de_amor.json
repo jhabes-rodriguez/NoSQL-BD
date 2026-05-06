@@ -18,4 +18,18 @@
   "anio_salida": 1993,
   "autor": "Diomedes Díaz",
   "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
+},
+{
+  "_id": "dd_tda_04",
+  "titulo": "Ven Conmigo",
+  "anio_salida": 1993,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
+},
+{
+  "_id": "dd_tda_05",
+  "titulo": "Necesito Tu Amor",
+  "anio_salida": 1993,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
 }]

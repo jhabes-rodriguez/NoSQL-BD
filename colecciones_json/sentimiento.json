@@ -18,4 +18,18 @@
   "anio_salida": 2007,
   "autor": "Ivy Queen",
   "id_imagen_portada": "images/ivy_queen_sentimiento.jpg"
+},
+{
+  "_id": "iq_sen_04",
+  "titulo": "Revolución",
+  "anio_salida": 2007,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg"
+},
+{
+  "_id": "iq_sen_05",
+  "titulo": "Vendrás Llorando",
+  "anio_salida": 2007,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg"
 }]
