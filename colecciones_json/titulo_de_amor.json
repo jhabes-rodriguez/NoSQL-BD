@@ -1,0 +1,21 @@
+[{
+  "_id": "dd_tda_01",
+  "titulo": "Mi Primera Cana",
+  "anio_salida": 1993,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
+},
+{
+  "_id": "dd_tda_02",
+  "titulo": "Tú Eres La Reina",
+  "anio_salida": 1993,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
+},
+{
+  "_id": "dd_tda_03",
+  "titulo": "Amarte Más No Pude",
+  "anio_salida": 1993,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_titulo_de_amor.jpg"
+}]

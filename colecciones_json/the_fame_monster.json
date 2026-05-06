@@ -1,0 +1,21 @@
+[{
+  "_id": "lg_tfm_01",
+  "titulo": "Bad Romance",
+  "anio_salida": 2009,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
+},
+{
+  "_id": "lg_tfm_02",
+  "titulo": "Alejandro",
+  "anio_salida": 2009,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
+},
+{
+  "_id": "lg_tfm_03",
+  "titulo": "Telephone",
+  "anio_salida": 2009,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame_monster.jpg"
+}]
