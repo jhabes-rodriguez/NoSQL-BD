@@ -18,4 +18,18 @@
   "anio_salida": 1982,
   "autor": "Michael Jackson",
   "id_imagen_portada": "images/michael_jackson_thriller.jpg"
+},
+{
+  "_id": "mj_th_04",
+  "titulo": "Baby Be Mine",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg"
+},
+{
+  "_id": "mj_th_05",
+  "titulo": "The Lady in My Life",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg"
 }]

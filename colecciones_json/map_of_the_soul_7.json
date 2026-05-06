@@ -18,4 +18,18 @@
   "anio_salida": 2020,
   "autor": "BTS",
   "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg"
+},
+{
+  "_id": "bts_mots_04",
+  "titulo": "Louder than bombs",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg"
+},
+{
+  "_id": "bts_mots_05",
+  "titulo": "Filter",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg"
 }]
